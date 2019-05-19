@@ -7,6 +7,8 @@
 
 ### 怎么用 or 为什么存在
 
+- [usage](https://github.com/Apriluestc/sgi-stl/blob/master/SGI-STL/map/ussage.md)
+
 ### map 是什么
 
 - 首先，map 是一个 STL 的关联式容器，其作用是提供了一对一的元素映射
