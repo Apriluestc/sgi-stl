@@ -7,7 +7,7 @@
 
 ### 怎么用 or 为什么存在
 
-- [usage]()
+- [usage](https://github.com/Apriluestc/sgi-stl/blob/master/SGI-STL/vector/usage.md)
 
 ### vector 是什么
 
