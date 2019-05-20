@@ -8,6 +8,7 @@
 ### 怎么用 or 为什么存在
 
 - [usage](https://github.com/Apriluestc/sgi-stl/blob/master/SGI-STL/map/ussage.md)
+- [map 使用案例](https://github.com/Apriluestc/sgi-stl/tree/master/TEST-SGI-STL/map)
 
 ### map 是什么
 
